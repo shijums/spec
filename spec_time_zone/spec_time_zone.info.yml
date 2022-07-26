@@ -1,0 +1,5 @@
+name: Spec Timezone
+type: module
+description: Spec Timezone Module
+package: specbee
+core_version_requirement: ^8 || ^9

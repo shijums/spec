@@ -1,0 +1,5 @@
+spec_time_zone.admin_settings_form:  
+  title: 'Timezone Configuration Form'  
+  route_name: spec_time_zone.admin_config_form 
+  description: 'Manage Time Zone, Country and City'  
+  parent: system.admin_config_development  

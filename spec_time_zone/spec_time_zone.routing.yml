@@ -1,0 +1,9 @@
+spec_time_zone.admin_config_form:  
+  path: '/admin/config/development/acf'  
+  defaults:  
+    _form: '\Drupal\spec_time_zone\Form\ACFForm'  
+    _title: 'Timezone Configuration Form'  
+  requirements:  
+    _role: 'administrator'  
+  options:  
+    _admin_route: TRUE  

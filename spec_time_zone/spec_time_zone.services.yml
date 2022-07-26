@@ -1,0 +1,5 @@
+services:
+  spec_time_zone.admin_timezone_service:
+    class: Drupal\spec_time_zone\Services\AdminTimeZoneService
+    arguments: ['@config.factory', '@date.formatter']
+    
